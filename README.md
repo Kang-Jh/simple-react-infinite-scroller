@@ -1,2 +1,2 @@
 # simple-react-infinite-scroller
-simple hook based infinite scroller
+Simple hook based infinite scroller that uses Intersection Observer under the hood
