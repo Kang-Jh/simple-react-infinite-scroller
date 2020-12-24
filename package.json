@@ -1,0 +1,22 @@
+{
+  "name": "simple-react-infinite-scroller",
+  "version": "0.1.0",
+  "description": "simple react infinite scroller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kang-Jh/simple-react-infinite-scroller.git"
+  },
+  "author": "Kang Jh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kang-Jh/simple-react-infinite-scroller/issues"
+  },
+  "homepage": "https://github.com/Kang-Jh/simple-react-infinite-scroller#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
